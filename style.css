@@ -356,7 +356,8 @@ h3 {
 }
 
 .overlay {
-  background-color: gray;
+  /*background-color: gray;*/
+   background-image: url("assets/img/bcg.png")
   height: 100%;
   left: 0;
   position: absolute;
